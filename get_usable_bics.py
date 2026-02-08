@@ -5,7 +5,7 @@ import dotenv
 
 dotenv.load_dotenv()
 
-REPO_NAME = 'junit'
+REPO_NAME = 'openj9'
 
 print(f'Getting usable BICs for {REPO_NAME}...')
 

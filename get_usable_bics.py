@@ -22,6 +22,7 @@ for file in os.listdir('./bics'):
                     usable_bic = {
                         'repo_name': d.get('repo_name'),
                         'fix_commit_hash': fix_commit_hash,
+                        'bic': d.get('bic_id')
                     }
                     data_file.append(usable_bic)
 

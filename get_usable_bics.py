@@ -22,10 +22,11 @@ for file in os.listdir('./bics'):
                     usable_bic = {
                         'repo_name': d.get('repo_name'),
                         'fix_commit_hash': fix_commit_hash,
+                        'bic_id': d.get('bic_id')
                     }
                     data_file.append(usable_bic)
 
         with open(f'data/data.json', 'w') as f:
             json.dump(data_file, f, indent=4)
 
-split_json_file('original/graal.json', f'data/{REPO_NAME}', 40)
+split_json_file('data/data.json', f'data/{REPO_NAME}', 40)

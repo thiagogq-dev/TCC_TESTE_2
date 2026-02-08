@@ -5,7 +5,7 @@ import dotenv
 
 dotenv.load_dotenv()
 
-REPO_NAME = 'openj9'
+REPO_NAME = 'spring-boot'
 
 print(f'Getting usable BICs for {REPO_NAME}...')
 
@@ -28,4 +28,4 @@ for file in os.listdir('./bics'):
         with open(f'data/data.json', 'w') as f:
             json.dump(data_file, f, indent=4)
 
-split_json_file('data/data.json', f'data/{REPO_NAME}', 40)
+split_json_file('data/data.json', f'data/{REPO_NAME}', 80)

@@ -12,7 +12,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/143beb449a1bd4798670dd3469cd40928d5d7d63",
         "fix_commit_hash": "143beb449a1bd4798670dd3469cd40928d5d7d63",
         "best_scenario_issue_date": "2022-11-14T19:04:43+01:00",
-        "bic_id": 641
+        "bic_id": 641,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -27,7 +28,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3267",
         "fix_commit_hash": "f3dd6bca8f2d786db4c77e15529d7c0159f77261",
         "best_scenario_issue_date": "2023-05-06T16:09:59+02:00",
-        "bic_id": 642
+        "bic_id": 642,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -42,7 +44,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/d16f2b543d724b1be47091082149f8574ec25182",
         "fix_commit_hash": "d16f2b543d724b1be47091082149f8574ec25182",
         "best_scenario_issue_date": "2022-12-04T17:11:30+01:00",
-        "bic_id": 643
+        "bic_id": 643,
+        "bic": [
+            "d1f6edee15ccacfbb931c5f98a2eacc04ede5f56"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -57,7 +62,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3117",
         "fix_commit_hash": "e68580dd1009f5c2dcfe08c61597ad5e3b82abfc",
         "best_scenario_issue_date": "2022-12-30T15:38:24+01:00",
-        "bic_id": 644
+        "bic_id": 644,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -72,7 +78,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/54d77f7258191ebf99e1f92159d61814ce40c60e",
         "fix_commit_hash": "54d77f7258191ebf99e1f92159d61814ce40c60e",
         "best_scenario_issue_date": "2022-11-25T18:38:54+01:00",
-        "bic_id": 645
+        "bic_id": 645,
+        "bic": [
+            "be5566839aa593101c3ffe10bd529d062ef068c7"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -87,7 +96,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3125",
         "fix_commit_hash": "aed3bda9223ccb7fd2964f7314a9297920f80e21",
         "best_scenario_issue_date": "2023-01-06T16:21:02+01:00",
-        "bic_id": 646
+        "bic_id": 646,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -102,7 +112,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/4151",
         "fix_commit_hash": "af6b502e373a7f80150433e95aed5cd6af39e87b",
         "best_scenario_issue_date": "2024-11-26T09:29:19+01:00",
-        "bic_id": 647
+        "bic_id": 647,
+        "bic": [
+            "dceac6e2e09d7478b911637a4fd9849f9515a9ed"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -117,7 +130,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3169",
         "fix_commit_hash": "0de9d1033da1880dc61c72b02840941cfcc2d10e",
         "best_scenario_issue_date": "2024-10-16T16:32:40+08:00",
-        "bic_id": 648
+        "bic_id": 648,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -132,7 +146,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/5060",
         "fix_commit_hash": "24bfbcaff81e630b799d753424b210c112d6ac83",
         "best_scenario_issue_date": "2025-11-06T16:38:06+01:00",
-        "bic_id": 649
+        "bic_id": 649,
+        "bic": [
+            "1f7be035ab372e8007f7460f254318d1cf97212a"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -147,7 +164,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3116",
         "fix_commit_hash": "17b91804ccfe9b469ed6a800d91b730fcb97a7ba",
         "best_scenario_issue_date": "2023-01-06T16:18:30+01:00",
-        "bic_id": 650
+        "bic_id": 650,
+        "bic": [
+            "f04ca43637be310f28ba14979e898d29bada71c8"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -162,7 +182,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/85d255360325269c453944333c30b46394bc8f3c",
         "fix_commit_hash": "85d255360325269c453944333c30b46394bc8f3c",
         "best_scenario_issue_date": "2025-04-28T09:50:52+02:00",
-        "bic_id": 651
+        "bic_id": 651,
+        "bic": [
+            "c048779cd76b0a55efdd05522f3ab2d731b109ab"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -177,7 +200,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3151",
         "fix_commit_hash": "4b1de7de4afc50f84116ca69c30011f4ac622282",
         "best_scenario_issue_date": "2023-02-16T15:57:47+01:00",
-        "bic_id": 652
+        "bic_id": 652,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -192,7 +216,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/3b85a030a7a0ecb328eef89c993feb3b81256e43",
         "fix_commit_hash": "3b85a030a7a0ecb328eef89c993feb3b81256e43",
         "best_scenario_issue_date": "2024-09-17T17:03:09+02:00",
-        "bic_id": 653
+        "bic_id": 653,
+        "bic": [
+            "3586d9edb7cd0e167cdb88cfcd924a63251c6e1a"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -207,7 +234,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/f071de75b1927130c8a77faa18130c3f69343cb4",
         "fix_commit_hash": "f071de75b1927130c8a77faa18130c3f69343cb4",
         "best_scenario_issue_date": "2025-03-10T01:21:17-07:00",
-        "bic_id": 654
+        "bic_id": 654,
+        "bic": [
+            "0173a37a48807d9c031271cef8b183e84891a100"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -222,7 +252,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3178",
         "fix_commit_hash": "f79e38bb77f9bd1c5330577613359d619fff95ae",
         "best_scenario_issue_date": "2023-04-28T14:40:26+02:00",
-        "bic_id": 655
+        "bic_id": 655,
+        "bic": [
+            "a37f726bc3f5241cdffd7491e16b0266002e0eb9"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -237,7 +270,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/bb962513ef1a921f48d83379ef9715f4e3d7d2e0",
         "fix_commit_hash": "bb962513ef1a921f48d83379ef9715f4e3d7d2e0",
         "best_scenario_issue_date": "2023-05-29T19:52:20+02:00",
-        "bic_id": 656
+        "bic_id": 656,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -252,7 +286,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3206",
         "fix_commit_hash": "e48bd292000e9af30a0d4ad5e9cfb7d81d14db7c",
         "best_scenario_issue_date": "2023-04-23T15:23:25+02:00",
-        "bic_id": 657
+        "bic_id": 657,
+        "bic": [
+            "324802d8d0e189a4bddac5a2f93e4c52d2431f5b"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -267,7 +304,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3263",
         "fix_commit_hash": "0aae9a9574bb2b2994035e0f7beb199ef03b02cf",
         "best_scenario_issue_date": "2023-04-26T16:07:51+02:00",
-        "bic_id": 658
+        "bic_id": 658,
+        "bic": [
+            "a52e33101af6c1ef8b55345891f2e96995348fe3"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -282,7 +322,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/0864413d77837aeb40e03c7cc1c56ef567c202f8",
         "fix_commit_hash": "0864413d77837aeb40e03c7cc1c56ef567c202f8",
         "best_scenario_issue_date": "2023-06-17T18:02:56+02:00",
-        "bic_id": 659
+        "bic_id": 659,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -297,7 +338,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/7b2688c8cbe6349656ef94492dceff6537d6a87c",
         "fix_commit_hash": "7b2688c8cbe6349656ef94492dceff6537d6a87c",
         "best_scenario_issue_date": "2023-04-21T13:17:27-06:00",
-        "bic_id": 660
+        "bic_id": 660,
+        "bic": [
+            "bc0aa426a02e0ec3146ecd6ab63be9951ead5821"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -312,7 +356,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3277",
         "fix_commit_hash": "b41ae69659e8dc3fa230f97d8a751d81e69d06d7",
         "best_scenario_issue_date": "2023-05-08T22:34:16+02:00",
-        "bic_id": 661
+        "bic_id": 661,
+        "bic": [
+            "07c678d92e1ba49e0fcf8584df9ffea7fe7c46c7"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -327,7 +374,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/82a12325df8a040f7d44fe8d56dae05c22baeb7a",
         "fix_commit_hash": "82a12325df8a040f7d44fe8d56dae05c22baeb7a",
         "best_scenario_issue_date": "2023-04-22T11:50:10+02:00",
-        "bic_id": 662
+        "bic_id": 662,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -342,7 +390,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/6828a799b64c88f28e11c31d2eda04707c4e3983",
         "fix_commit_hash": "6828a799b64c88f28e11c31d2eda04707c4e3983",
         "best_scenario_issue_date": "2024-07-18T07:36:10+01:00",
-        "bic_id": 663
+        "bic_id": 663,
+        "bic": [
+            "0ba4d0bff5bdcb4384c58bd101a19b228e30d91e"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -357,7 +408,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/ddaaf6f77a83d4c5382e7e12d96cfb415cecd121",
         "fix_commit_hash": "ddaaf6f77a83d4c5382e7e12d96cfb415cecd121",
         "best_scenario_issue_date": "2023-04-29T14:08:05+02:00",
-        "bic_id": 664
+        "bic_id": 664,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -372,7 +424,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/ebe7a02075e88c0d53e8ab7cc439e45c05a5d461",
         "fix_commit_hash": "ebe7a02075e88c0d53e8ab7cc439e45c05a5d461",
         "best_scenario_issue_date": "2023-05-03T11:43:10+01:00",
-        "bic_id": 665
+        "bic_id": 665,
+        "bic": [
+            "07f2bf349e45f5a63228cb6002ae7bdbd3445ce1"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -387,7 +442,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/fc3f23047043908d31cc8bd3b2ea246d3a5fe2be",
         "fix_commit_hash": "fc3f23047043908d31cc8bd3b2ea246d3a5fe2be",
         "best_scenario_issue_date": "2023-05-08T17:54:18+02:00",
-        "bic_id": 666
+        "bic_id": 666,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -402,7 +458,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/7538811db2038e8b034eb8a6fcddda54496a7994",
         "fix_commit_hash": "7538811db2038e8b034eb8a6fcddda54496a7994",
         "best_scenario_issue_date": "2023-05-09T18:12:35+02:00",
-        "bic_id": 667
+        "bic_id": 667,
+        "bic": [
+            "22084d04f884c9a25773b19dc5831026f366f847"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -417,7 +476,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/f6e73acdbe9133bdd4286241c88f707a3a3228cc",
         "fix_commit_hash": "f6e73acdbe9133bdd4286241c88f707a3a3228cc",
         "best_scenario_issue_date": "2023-05-09T15:19:43+02:00",
-        "bic_id": 668
+        "bic_id": 668,
+        "bic": [
+            "357186978015c1875f17e2dad7446cf394f506bb"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -432,7 +494,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/ebe7a02075e88c0d53e8ab7cc439e45c05a5d461",
         "fix_commit_hash": "ebe7a02075e88c0d53e8ab7cc439e45c05a5d461",
         "best_scenario_issue_date": "2023-05-03T11:43:10+01:00",
-        "bic_id": 669
+        "bic_id": 669,
+        "bic": [
+            "07f2bf349e45f5a63228cb6002ae7bdbd3445ce1"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -447,7 +512,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/8bc798f00b0bbf9f58a96789bc7bc2cd80404e94",
         "fix_commit_hash": "8bc798f00b0bbf9f58a96789bc7bc2cd80404e94",
         "best_scenario_issue_date": "2023-05-13T13:23:26+02:00",
-        "bic_id": 670
+        "bic_id": 670,
+        "bic": [
+            "75cde97e14e04d21907f9367ac25f4f88b20a9d9"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -462,7 +530,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3364",
         "fix_commit_hash": "309a696f4f7a2cda191521b43b0f2482832a6123",
         "best_scenario_issue_date": "2023-06-28T20:42:23+02:00",
-        "bic_id": 671
+        "bic_id": 671,
+        "bic": [
+            "b41ae69659e8dc3fa230f97d8a751d81e69d06d7"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -477,7 +548,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/6ae599b8865dbd16cd2ecd9e8ebb52937bea3733",
         "fix_commit_hash": "6ae599b8865dbd16cd2ecd9e8ebb52937bea3733",
         "best_scenario_issue_date": "2023-05-15T20:56:15+02:00",
-        "bic_id": 672
+        "bic_id": 672,
+        "bic": [
+            "07e27cc511ac4c97bceb8675d5362855fbed9293"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -492,7 +566,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3321",
         "fix_commit_hash": "668698385ccc832e59b69c6c19ab64b0a43b46ef",
         "best_scenario_issue_date": "2023-05-23T13:48:30+02:00",
-        "bic_id": 673
+        "bic_id": 673,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -507,7 +582,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/eb35aa9cdecd71f49af177f2cad32f5257311874",
         "fix_commit_hash": "eb35aa9cdecd71f49af177f2cad32f5257311874",
         "best_scenario_issue_date": "2023-06-18T17:33:08+02:00",
-        "bic_id": 674
+        "bic_id": 674,
+        "bic": [
+            "4d00a8674aa3ad308b917779ea36492e55f3bfdd"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -522,7 +600,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/7cfdfeb6db4f08cc72597b4d11720d10ba5830dd",
         "fix_commit_hash": "7cfdfeb6db4f08cc72597b4d11720d10ba5830dd",
         "best_scenario_issue_date": "2023-05-28T17:35:03+02:00",
-        "bic_id": 675
+        "bic_id": 675,
+        "bic": [
+            "3dce5849243fca6df74c154502eb6b3e1423daa8"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -537,7 +618,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/c71d6715e01e2bd65fcce9675955a851da24d384",
         "fix_commit_hash": "c71d6715e01e2bd65fcce9675955a851da24d384",
         "best_scenario_issue_date": "2023-05-26T17:59:41+02:00",
-        "bic_id": 676
+        "bic_id": 676,
+        "bic": [
+            "300c6b65e25729e111b0ea468fcbfc751adb98ea"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -552,7 +636,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/8eaf84e9604a0147e21e376c0ed64e168a375cd8",
         "fix_commit_hash": "8eaf84e9604a0147e21e376c0ed64e168a375cd8",
         "best_scenario_issue_date": "2023-05-30T10:47:08+02:00",
-        "bic_id": 677
+        "bic_id": 677,
+        "bic": [
+            "bd733b57007a4330393ea1de5236f50aca76ca2f"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -567,7 +654,10 @@
         "closer_url": "https://github.com/junit-team/junit-framework/commit/300c6b65e25729e111b0ea468fcbfc751adb98ea",
         "fix_commit_hash": "300c6b65e25729e111b0ea468fcbfc751adb98ea",
         "best_scenario_issue_date": "2023-05-30T11:55:17+02:00",
-        "bic_id": 678
+        "bic_id": 678,
+        "bic": [
+            "8eaf84e9604a0147e21e376c0ed64e168a375cd8"
+        ]
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -582,7 +672,8 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3345",
         "fix_commit_hash": "be8ae70663be386b8a5e5856b7d03d393167fff6",
         "best_scenario_issue_date": "2024-07-19T15:51:20+02:00",
-        "bic_id": 679
+        "bic_id": 679,
+        "bic": []
     },
     {
         "repo_name": "junit-team/junit-framework",
@@ -597,6 +688,9 @@
         "closer_url": "https://github.com/junit-team/junit-framework/pull/3378",
         "fix_commit_hash": "eb34ed74d1f469091ece5686111b792781376708",
         "best_scenario_issue_date": "2023-07-02T17:57:19+02:00",
-        "bic_id": 680
+        "bic_id": 680,
+        "bic": [
+            "ab7e1bef4586951f6f33986afca940fbfeb68cb7"
+        ]
     }
 ]

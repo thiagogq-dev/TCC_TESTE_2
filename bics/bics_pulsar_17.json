@@ -12,7 +12,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7240",
         "fix_commit_hash": "3ff532d5fe5ae44fb13f72ed780f2ffd000ba6cd",
         "best_scenario_issue_date": "2020-06-12T21:20:49+08:00",
-        "bic_id": 641
+        "bic_id": 641,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -27,7 +28,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7231",
         "fix_commit_hash": "e1c04ef2026c5f6a9a7229a05cedee3ff9dbf7ee",
         "best_scenario_issue_date": "2020-06-11T08:44:54+08:00",
-        "bic_id": 642
+        "bic_id": 642,
+        "bic": [
+            "951664cfb9c4b54125477823e8e140692fb71970"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -42,7 +46,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/9365",
         "fix_commit_hash": "88f8fa42d7613ebc1a426cbfb6be9163404507f9",
         "best_scenario_issue_date": "2021-01-30T12:08:34+08:00",
-        "bic_id": 643
+        "bic_id": 643,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -57,7 +62,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7322",
         "fix_commit_hash": "8c5566434031298f316410d7f2ec0ac7373fc42b",
         "best_scenario_issue_date": "2020-07-05T08:25:18+03:00",
-        "bic_id": 644
+        "bic_id": 644,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -72,7 +78,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7369",
         "fix_commit_hash": "2b94d02eee58f960cf296ebd97fe57a8364ae793",
         "best_scenario_issue_date": "2020-07-02T12:51:00+08:00",
-        "bic_id": 645
+        "bic_id": 645,
+        "bic": [
+            "add2eae1295e878a229efea60439eb32f27f40b2"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -87,7 +96,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/10977",
         "fix_commit_hash": "7417ca87e623e56454b1d812ee957ddee511a78e",
         "best_scenario_issue_date": "2021-06-19T10:49:27+03:00",
-        "bic_id": 646
+        "bic_id": 646,
+        "bic": [
+            "757824f88c06feb97968af6f5cdd7ccbea5ac666"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -102,7 +114,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7363",
         "fix_commit_hash": "36e8110c4cf772bb99a9a39bc76b5ed3c2280beb",
         "best_scenario_issue_date": "2020-06-26T02:03:08+02:00",
-        "bic_id": 647
+        "bic_id": 647,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -117,7 +130,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7316",
         "fix_commit_hash": "a74fe60b85537e8f94ef2276c5758b9893a4d6ee",
         "best_scenario_issue_date": "2020-07-28T16:08:39+02:00",
-        "bic_id": 648
+        "bic_id": 648,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -132,7 +146,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7389",
         "fix_commit_hash": "eaf268cb3717df242a8e17b5cadb6babc1a7099c",
         "best_scenario_issue_date": "2020-07-09T00:44:31+08:00",
-        "bic_id": 649
+        "bic_id": 649,
+        "bic": [
+            "347d3851b6e62be99b0953a21d8c1a6d502ae111"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -147,7 +164,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/19750",
         "fix_commit_hash": "ef18bab1badbe6ce537254b3ff8fd288da1e7d4d",
         "best_scenario_issue_date": "2023-03-27T12:00:50+07:00",
-        "bic_id": 650
+        "bic_id": 650,
+        "bic": [
+            "547ab3b2d642d1501939fc47443a096fe9b379b7"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -162,7 +182,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/8397",
         "fix_commit_hash": "2d1b86fc01cacb4b496f9f86b521ef891c27fa4a",
         "best_scenario_issue_date": "2020-11-04T15:52:52+08:00",
-        "bic_id": 651
+        "bic_id": 651,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -177,7 +198,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7424",
         "fix_commit_hash": "e99b66933e4775efbb7c7df8ea3a38047d879d6b",
         "best_scenario_issue_date": "2020-07-03T14:37:11+08:00",
-        "bic_id": 652
+        "bic_id": 652,
+        "bic": [
+            "a52e9af9ddfeb90c129a77969c60f6da38281e9d"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -192,7 +216,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7409",
         "fix_commit_hash": "25a690734f278299bfdaae118a2c02ecc25c125e",
         "best_scenario_issue_date": "2020-07-07T00:41:33+08:00",
-        "bic_id": 653
+        "bic_id": 653,
+        "bic": [
+            "aa0fbb0d31d36f383054d93e3684de79879c430c"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -207,7 +234,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7459",
         "fix_commit_hash": "f8beb7876974cb5c69f74d740926d00fa0cc5a2e",
         "best_scenario_issue_date": "2020-07-07T00:43:32+08:00",
-        "bic_id": 654
+        "bic_id": 654,
+        "bic": [
+            "710b22d401ca945050bf1248ebbb867ae1f3d4b5"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -222,7 +252,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7831",
         "fix_commit_hash": "7b60e2d46b0f67a99dd1b5ad0c6220f7bf7e7393",
         "best_scenario_issue_date": "2020-08-21T06:49:55-07:00",
-        "bic_id": 655
+        "bic_id": 655,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -237,7 +268,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7435",
         "fix_commit_hash": "53c50c180fbc9ab44a7656a16603510218a3f695",
         "best_scenario_issue_date": "2020-07-06T07:25:13+08:00",
-        "bic_id": 656
+        "bic_id": 656,
+        "bic": [
+            "a3e1efc229f4839c4e8edec690f8ca52ddb5894a"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -252,7 +286,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7858",
         "fix_commit_hash": "22b8923a251c3356401090dacb8ff97fd37d14c1",
         "best_scenario_issue_date": "2020-09-09T05:20:59-07:00",
-        "bic_id": 657
+        "bic_id": 657,
+        "bic": [
+            "83605f6e45b24636d2a548a7e20459681aada88f"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -267,7 +304,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7416",
         "fix_commit_hash": "ed3583a5bd750661f8643617fc618151f87019b2",
         "best_scenario_issue_date": "2020-07-16T09:26:01+08:00",
-        "bic_id": 658
+        "bic_id": 658,
+        "bic": [
+            "2d2c63e4d7fc4ce90068edf15f39de82ef738e33"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -282,7 +322,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7590",
         "fix_commit_hash": "e18083754a74bd6b260cb9c853192f9a2de28acb",
         "best_scenario_issue_date": "2020-07-18T15:16:44+02:00",
-        "bic_id": 659
+        "bic_id": 659,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -297,7 +338,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7462",
         "fix_commit_hash": "6726072a867c7a9f23d1a3cecfc2085c84cbdece",
         "best_scenario_issue_date": "2020-07-09T12:20:06+08:00",
-        "bic_id": 660
+        "bic_id": 660,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -312,7 +354,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7687",
         "fix_commit_hash": "f2532c858de72150453c1956753d71b1e6f4ab3a",
         "best_scenario_issue_date": "2020-07-29T14:35:10+08:00",
-        "bic_id": 661
+        "bic_id": 661,
+        "bic": [
+            "46a068be5de3f062b2344a393846a761e4777f1a"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -327,7 +372,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7498",
         "fix_commit_hash": "3797f6fcceb97954f372e68a6494a6adad68a171",
         "best_scenario_issue_date": "2020-11-13T10:27:19+08:00",
-        "bic_id": 662
+        "bic_id": 662,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -342,7 +388,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7655",
         "fix_commit_hash": "fffd9f144bb14a220d17e951fea29b16ad2db103",
         "best_scenario_issue_date": "2020-07-28T23:50:42+08:00",
-        "bic_id": 663
+        "bic_id": 663,
+        "bic": [
+            "1691cc822606a4f5815175888e746dbdbcccb6e2"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -357,7 +406,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7975",
         "fix_commit_hash": "9ddafdf16bc7b24cc2db12a0a1aabff1e66958ac",
         "best_scenario_issue_date": "2020-09-08T10:13:00+08:00",
-        "bic_id": 664
+        "bic_id": 664,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -372,7 +422,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/9569",
         "fix_commit_hash": "cce0fc79ef345c47ef40141f6b9ca993fc75df5d",
         "best_scenario_issue_date": "2021-02-12T15:09:54-06:00",
-        "bic_id": 665
+        "bic_id": 665,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -387,7 +438,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7834",
         "fix_commit_hash": "9994d6dc11a9c04a674d4fec1cc0dc19a6526b3b",
         "best_scenario_issue_date": "2020-09-01T23:22:13+08:00",
-        "bic_id": 666
+        "bic_id": 666,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -402,7 +454,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7483",
         "fix_commit_hash": "beb9e3be60513bdfbd0e412a68747b97714af1d7",
         "best_scenario_issue_date": "2020-07-09T12:59:50+08:00",
-        "bic_id": 667
+        "bic_id": 667,
+        "bic": [
+            "cb34e6a51af58225ab7b62a6afec916768654f24"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -417,7 +472,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7598",
         "fix_commit_hash": "00e30895b22129d5189db1592851bdb62e8c498b",
         "best_scenario_issue_date": "2020-07-28T14:26:58+08:00",
-        "bic_id": 668
+        "bic_id": 668,
+        "bic": [
+            "88babcc8331508b5c8becc6e216d7c293b4cb86e"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -432,7 +490,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7606",
         "fix_commit_hash": "42d17c85fc9460ec0aa678cf3e3663de2aa61524",
         "best_scenario_issue_date": "2020-07-28T23:50:20+08:00",
-        "bic_id": 669
+        "bic_id": 669,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -447,7 +506,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7539",
         "fix_commit_hash": "777ed1651221449da61c3e3cb8a7eb8157a8239f",
         "best_scenario_issue_date": "2020-07-25T16:34:08+02:00",
-        "bic_id": 670
+        "bic_id": 670,
+        "bic": [
+            "f24a0b191f178369b253642d89f28e5115008142"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -462,7 +524,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7503",
         "fix_commit_hash": "bd44a2b2c25d7102d922274f2d135449bedc6aae",
         "best_scenario_issue_date": "2020-07-12T07:20:00+08:00",
-        "bic_id": 671
+        "bic_id": 671,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -477,7 +540,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7514",
         "fix_commit_hash": "a55a405c794741ec10094ddd174fccf0cb4840c7",
         "best_scenario_issue_date": "2020-07-12T00:52:26+09:00",
-        "bic_id": 672
+        "bic_id": 672,
+        "bic": [
+            "2cca8ce83667fccde428db536a1446eef2203f8e"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -492,7 +558,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7773",
         "fix_commit_hash": "2ebf92178f63bac6b72a34569d28366a1345c982",
         "best_scenario_issue_date": "2020-09-11T12:50:48+08:00",
-        "bic_id": 673
+        "bic_id": 673,
+        "bic": [
+            "4916acdc237420807b5242aed9e04f6b6034db8e"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -507,7 +576,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7522",
         "fix_commit_hash": "6eaf8a68d00879813ac6948a30fe5990e9193dc9",
         "best_scenario_issue_date": "2020-07-16T09:26:49+08:00",
-        "bic_id": 674
+        "bic_id": 674,
+        "bic": [
+            "07bb84532f3da80d1717c16f377fade16b8c4360"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -522,7 +594,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7593",
         "fix_commit_hash": "27820358a92704c2cd24a08e295369dfbcb145cc",
         "best_scenario_issue_date": "2020-07-27T12:27:51+08:00",
-        "bic_id": 675
+        "bic_id": 675,
+        "bic": [
+            "d073a7c874c391731d703f86ce13849ee7312f0e"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -537,7 +612,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7861",
         "fix_commit_hash": "0b7f034e391da28141a842703bd8dd843604c9a7",
         "best_scenario_issue_date": "2020-08-28T01:22:47+09:00",
-        "bic_id": 676
+        "bic_id": 676,
+        "bic": [
+            "5556f1b7e01040bd78c7e7736383812eb12217ad"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -552,7 +630,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7691",
         "fix_commit_hash": "c54a47e2bfe664de4c834afe45e4db10466707ed",
         "best_scenario_issue_date": "2020-08-06T23:18:01+02:00",
-        "bic_id": 677
+        "bic_id": 677,
+        "bic": [
+            "296830a37d82de65d30dfd74d9a5893033056f18"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -567,7 +648,10 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7558",
         "fix_commit_hash": "3db03be35e8c5edc7321b5a649106c3191eba35c",
         "best_scenario_issue_date": "2020-07-17T07:28:35+02:00",
-        "bic_id": 678
+        "bic_id": 678,
+        "bic": [
+            "871a1e028febc45742842754a801073a47d71698"
+        ]
     },
     {
         "repo_name": "apache/pulsar",
@@ -582,7 +666,8 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7589",
         "fix_commit_hash": "0b37b0c76dd2faaa9b8cc8d5b316ff35a307cfc1",
         "best_scenario_issue_date": "2020-07-28T13:58:46+08:00",
-        "bic_id": 679
+        "bic_id": 679,
+        "bic": []
     },
     {
         "repo_name": "apache/pulsar",
@@ -597,6 +682,7 @@
         "closer_url": "https://github.com/apache/pulsar/pull/7572",
         "fix_commit_hash": "15d5254e49b96719638f9efec391a6beeed00bb9",
         "best_scenario_issue_date": "2020-07-28T08:23:08-06:00",
-        "bic_id": 680
+        "bic_id": 680,
+        "bic": []
     }
 ]

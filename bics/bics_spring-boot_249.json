@@ -12,7 +12,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/64159b057774507245c73ad19c74518c86631c15",
         "fix_commit_hash": "64159b057774507245c73ad19c74518c86631c15",
         "best_scenario_issue_date": "2026-01-08T13:33:09+00:00",
-        "bic_id": 19841
+        "bic_id": 19841,
+        "bic": [
+            "0a50b83c7568934338c31066108688085e92be32"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -27,7 +30,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/2ee3aee85ba87e2b643e6e023dbd95815dd9dcf5",
         "fix_commit_hash": "2ee3aee85ba87e2b643e6e023dbd95815dd9dcf5",
         "best_scenario_issue_date": "2026-01-13T17:01:40+00:00",
-        "bic_id": 19842
+        "bic_id": 19842,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -42,7 +46,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/6ec393499aca2ee1f91cbc11940d0b59e17bc558",
         "fix_commit_hash": "6ec393499aca2ee1f91cbc11940d0b59e17bc558",
         "best_scenario_issue_date": "2026-01-13T17:07:29+00:00",
-        "bic_id": 19843
+        "bic_id": 19843,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -57,7 +62,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/61b29cb8bfe2b260a762a509b658e63ac9752c35",
         "fix_commit_hash": "61b29cb8bfe2b260a762a509b658e63ac9752c35",
         "best_scenario_issue_date": "2026-01-13T17:07:30+00:00",
-        "bic_id": 19844
+        "bic_id": 19844,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -72,7 +78,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/284bc1aa25678c2cf0c7147356e6b1eaa2271fe0",
         "fix_commit_hash": "284bc1aa25678c2cf0c7147356e6b1eaa2271fe0",
         "best_scenario_issue_date": "2026-01-13T17:07:30+00:00",
-        "bic_id": 19845
+        "bic_id": 19845,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -87,7 +94,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/1dbd91f21fef68e8b2e89a64ede424478bf37a7a",
         "fix_commit_hash": "1dbd91f21fef68e8b2e89a64ede424478bf37a7a",
         "best_scenario_issue_date": "2026-01-08T14:42:54+00:00",
-        "bic_id": 19846
+        "bic_id": 19846,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -102,7 +110,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/83f633b04e78a843c51d7dc255cb55eb35f6c4c5",
         "fix_commit_hash": "83f633b04e78a843c51d7dc255cb55eb35f6c4c5",
         "best_scenario_issue_date": "2026-01-13T17:10:57+00:00",
-        "bic_id": 19847
+        "bic_id": 19847,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -117,7 +126,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/57de0a59ac72af944336c2aa0119c0eee7475281",
         "fix_commit_hash": "57de0a59ac72af944336c2aa0119c0eee7475281",
         "best_scenario_issue_date": "2026-01-13T17:10:58+00:00",
-        "bic_id": 19848
+        "bic_id": 19848,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -132,7 +142,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/af8235b117e838fedf25c06d72ba0bb406291393",
         "fix_commit_hash": "af8235b117e838fedf25c06d72ba0bb406291393",
         "best_scenario_issue_date": "2026-01-13T17:10:59+00:00",
-        "bic_id": 19849
+        "bic_id": 19849,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -147,7 +158,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/26258b120b7055173221310334c25e5a1536153a",
         "fix_commit_hash": "26258b120b7055173221310334c25e5a1536153a",
         "best_scenario_issue_date": "2026-01-08T15:08:12+00:00",
-        "bic_id": 19850
+        "bic_id": 19850,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -162,7 +174,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/dd3d9d8f2d52acd15faa3d01e6909e169395577c",
         "fix_commit_hash": "dd3d9d8f2d52acd15faa3d01e6909e169395577c",
         "best_scenario_issue_date": "2026-01-08T17:23:37+00:00",
-        "bic_id": 19851
+        "bic_id": 19851,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -177,7 +190,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/c2308a5808648be0e418fddd281dd8d461355e7a",
         "fix_commit_hash": "c2308a5808648be0e418fddd281dd8d461355e7a",
         "best_scenario_issue_date": "2026-01-08T17:23:41+00:00",
-        "bic_id": 19852
+        "bic_id": 19852,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -192,7 +206,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/add7b41c8f36e2a7f987378e1fa7682dd1c48a33",
         "fix_commit_hash": "add7b41c8f36e2a7f987378e1fa7682dd1c48a33",
         "best_scenario_issue_date": "2026-01-08T17:23:46+00:00",
-        "bic_id": 19853
+        "bic_id": 19853,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -207,7 +222,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/0152aa40c4523d61604d3c806811a3c83925a57f",
         "fix_commit_hash": "0152aa40c4523d61604d3c806811a3c83925a57f",
         "best_scenario_issue_date": "2026-01-08T17:23:50+00:00",
-        "bic_id": 19854
+        "bic_id": 19854,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -222,7 +238,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/d938ccfc204ea4530c56469e1381eeca0651d38a",
         "fix_commit_hash": "d938ccfc204ea4530c56469e1381eeca0651d38a",
         "best_scenario_issue_date": "2026-01-08T17:23:55+00:00",
-        "bic_id": 19855
+        "bic_id": 19855,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -237,7 +254,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/67fe6c0fea52ada0f215c73b1bb099e4e261067f",
         "fix_commit_hash": "67fe6c0fea52ada0f215c73b1bb099e4e261067f",
         "best_scenario_issue_date": "2026-01-08T17:23:59+00:00",
-        "bic_id": 19856
+        "bic_id": 19856,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -252,7 +270,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/0d1b9d7e18bc6c1af2ad6daa71c230b23c17672d",
         "fix_commit_hash": "0d1b9d7e18bc6c1af2ad6daa71c230b23c17672d",
         "best_scenario_issue_date": "2026-01-08T17:24:03+00:00",
-        "bic_id": 19857
+        "bic_id": 19857,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -267,7 +286,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/6dfefb512a1e8e3081755ccc8d3d1e24cfc0c453",
         "fix_commit_hash": "6dfefb512a1e8e3081755ccc8d3d1e24cfc0c453",
         "best_scenario_issue_date": "2026-01-08T17:24:08+00:00",
-        "bic_id": 19858
+        "bic_id": 19858,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -282,7 +302,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/cd9993eec8b5abaa6f0a3b66b4a8a5573f6a3c2b",
         "fix_commit_hash": "cd9993eec8b5abaa6f0a3b66b4a8a5573f6a3c2b",
         "best_scenario_issue_date": "2026-01-08T17:24:13+00:00",
-        "bic_id": 19859
+        "bic_id": 19859,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -297,7 +318,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/753f64a8f997e23083ad634bd6610fce0b721f84",
         "fix_commit_hash": "753f64a8f997e23083ad634bd6610fce0b721f84",
         "best_scenario_issue_date": "2026-01-08T17:24:17+00:00",
-        "bic_id": 19860
+        "bic_id": 19860,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -312,7 +334,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/b5252158fdb1bc6c0109a3b3253f2f4a44dc9db5",
         "fix_commit_hash": "b5252158fdb1bc6c0109a3b3253f2f4a44dc9db5",
         "best_scenario_issue_date": "2026-01-08T17:24:22+00:00",
-        "bic_id": 19861
+        "bic_id": 19861,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -327,7 +350,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/c9246cec4fc745323a1e18d2d9a06c9c81564315",
         "fix_commit_hash": "c9246cec4fc745323a1e18d2d9a06c9c81564315",
         "best_scenario_issue_date": "2026-01-09T15:29:15+00:00",
-        "bic_id": 19862
+        "bic_id": 19862,
+        "bic": [
+            "1fd17cf641ad011a7395b88e65f30c2a4596cb23"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -342,7 +368,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/c12e1dc872fd0b7eddabe0782be5cfd44825e47f",
         "fix_commit_hash": "c12e1dc872fd0b7eddabe0782be5cfd44825e47f",
         "best_scenario_issue_date": "2026-01-08T17:24:34+00:00",
-        "bic_id": 19863
+        "bic_id": 19863,
+        "bic": [
+            "1240c59482b36cba7686d6ae0bc1142a7e77803c"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -357,7 +386,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/9ca9ba547ff476192bc0a4ab32191baa7f9c9378",
         "fix_commit_hash": "9ca9ba547ff476192bc0a4ab32191baa7f9c9378",
         "best_scenario_issue_date": "2026-01-08T17:24:39+00:00",
-        "bic_id": 19864
+        "bic_id": 19864,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -372,7 +402,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/9754ad734f0cf0b7269913667138059ef181d5a0",
         "fix_commit_hash": "9754ad734f0cf0b7269913667138059ef181d5a0",
         "best_scenario_issue_date": "2026-01-08T17:24:43+00:00",
-        "bic_id": 19865
+        "bic_id": 19865,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -387,7 +418,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/f72a25ab9b2c037afc9e9f76a5fea4c6dd6c1434",
         "fix_commit_hash": "f72a25ab9b2c037afc9e9f76a5fea4c6dd6c1434",
         "best_scenario_issue_date": "2026-01-08T17:24:47+00:00",
-        "bic_id": 19866
+        "bic_id": 19866,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -402,7 +434,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/3752e957cca665994545ea48081d3eabe5e61d9a",
         "fix_commit_hash": "3752e957cca665994545ea48081d3eabe5e61d9a",
         "best_scenario_issue_date": "2026-01-08T17:24:51+00:00",
-        "bic_id": 19867
+        "bic_id": 19867,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -417,7 +450,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/04d53a07dbf42eea40570bd8d3a20286e2a86350",
         "fix_commit_hash": "04d53a07dbf42eea40570bd8d3a20286e2a86350",
         "best_scenario_issue_date": "2026-01-08T17:24:55+00:00",
-        "bic_id": 19868
+        "bic_id": 19868,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -432,7 +466,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/39261fbd3c3a6e47b121a29bdcb03219841806b5",
         "fix_commit_hash": "39261fbd3c3a6e47b121a29bdcb03219841806b5",
         "best_scenario_issue_date": "2026-01-08T17:25:00+00:00",
-        "bic_id": 19869
+        "bic_id": 19869,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -447,7 +482,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/2957d40f9c8dacdb9f7df6dbe1ea1ccdc2c0cbfb",
         "fix_commit_hash": "2957d40f9c8dacdb9f7df6dbe1ea1ccdc2c0cbfb",
         "best_scenario_issue_date": "2026-01-08T17:25:04+00:00",
-        "bic_id": 19870
+        "bic_id": 19870,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -462,7 +498,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/b39ef3981ce4bd11181cbd4be144daf40290ce9a",
         "fix_commit_hash": "b39ef3981ce4bd11181cbd4be144daf40290ce9a",
         "best_scenario_issue_date": "2026-01-08T17:25:08+00:00",
-        "bic_id": 19871
+        "bic_id": 19871,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -477,7 +514,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/3da794bacec9d92d5ed5b71de56a53558187ce25",
         "fix_commit_hash": "3da794bacec9d92d5ed5b71de56a53558187ce25",
         "best_scenario_issue_date": "2026-01-08T17:25:12+00:00",
-        "bic_id": 19872
+        "bic_id": 19872,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -492,7 +530,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/6a4957ef76242f91b8c4c15a3815511125d0ed42",
         "fix_commit_hash": "6a4957ef76242f91b8c4c15a3815511125d0ed42",
         "best_scenario_issue_date": "2026-01-08T17:25:16+00:00",
-        "bic_id": 19873
+        "bic_id": 19873,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -507,7 +546,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/721ef1db6b3e5ddcecbfd408949e7ce387e2b865",
         "fix_commit_hash": "721ef1db6b3e5ddcecbfd408949e7ce387e2b865",
         "best_scenario_issue_date": "2026-01-08T17:25:21+00:00",
-        "bic_id": 19874
+        "bic_id": 19874,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -522,7 +562,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/8e9becc09813e5482ee23d153ecf416a3f36d817",
         "fix_commit_hash": "8e9becc09813e5482ee23d153ecf416a3f36d817",
         "best_scenario_issue_date": "2026-01-08T17:25:25+00:00",
-        "bic_id": 19875
+        "bic_id": 19875,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -537,7 +578,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/6629b635827ddfcc91a4e12a41efd202c3d811ae",
         "fix_commit_hash": "6629b635827ddfcc91a4e12a41efd202c3d811ae",
         "best_scenario_issue_date": "2026-01-08T17:25:29+00:00",
-        "bic_id": 19876
+        "bic_id": 19876,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -552,7 +594,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/6c73be2628d0b8aef45157d9e3fe7352a10f1099",
         "fix_commit_hash": "6c73be2628d0b8aef45157d9e3fe7352a10f1099",
         "best_scenario_issue_date": "2026-01-08T17:25:33+00:00",
-        "bic_id": 19877
+        "bic_id": 19877,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -567,7 +610,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/94386b3b83cce212a6f575190340f409bf9fc12e",
         "fix_commit_hash": "94386b3b83cce212a6f575190340f409bf9fc12e",
         "best_scenario_issue_date": "2026-01-08T17:25:38+00:00",
-        "bic_id": 19878
+        "bic_id": 19878,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -582,7 +626,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/03470bfaef7fdeca705fbbb8a63a86dd40707562",
         "fix_commit_hash": "03470bfaef7fdeca705fbbb8a63a86dd40707562",
         "best_scenario_issue_date": "2026-01-08T17:34:30+00:00",
-        "bic_id": 19879
+        "bic_id": 19879,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -597,7 +642,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/67f137bc897c72cf0cc6144753e9bb0584872eea",
         "fix_commit_hash": "67f137bc897c72cf0cc6144753e9bb0584872eea",
         "best_scenario_issue_date": "2026-01-09T10:58:50+00:00",
-        "bic_id": 19880
+        "bic_id": 19880,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -612,7 +658,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/1ca799875cc16430fcbe1f44b1d2f010ae88e42f",
         "fix_commit_hash": "1ca799875cc16430fcbe1f44b1d2f010ae88e42f",
         "best_scenario_issue_date": "2026-01-09T11:39:21+01:00",
-        "bic_id": 19881
+        "bic_id": 19881,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -627,7 +674,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/c5e9968bcc4d74737e4fe81a6146e081f28cd6a1",
         "fix_commit_hash": "c5e9968bcc4d74737e4fe81a6146e081f28cd6a1",
         "best_scenario_issue_date": "2026-01-09T10:56:12+00:00",
-        "bic_id": 19882
+        "bic_id": 19882,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -642,7 +690,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/e625231ac07d22626023af69d61dd271a4401653",
         "fix_commit_hash": "e625231ac07d22626023af69d61dd271a4401653",
         "best_scenario_issue_date": "2026-01-09T11:02:16+00:00",
-        "bic_id": 19883
+        "bic_id": 19883,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -657,7 +706,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/0448719de497274437018382ebe7f350ddbe89aa",
         "fix_commit_hash": "0448719de497274437018382ebe7f350ddbe89aa",
         "best_scenario_issue_date": "2026-01-09T11:02:21+00:00",
-        "bic_id": 19884
+        "bic_id": 19884,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -672,7 +722,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/f8d75e70b37a0f6a0a62fb95732cc00c102e697b",
         "fix_commit_hash": "f8d75e70b37a0f6a0a62fb95732cc00c102e697b",
         "best_scenario_issue_date": "2026-01-09T11:02:25+00:00",
-        "bic_id": 19885
+        "bic_id": 19885,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -687,7 +738,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/54144432f2ca94a0d4e5c8c053163a4bedc3225c",
         "fix_commit_hash": "54144432f2ca94a0d4e5c8c053163a4bedc3225c",
         "best_scenario_issue_date": "2026-01-09T11:02:30+00:00",
-        "bic_id": 19886
+        "bic_id": 19886,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -702,7 +754,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/873e7b0e564b269ab3c6bead46bf72c4df16e7ec",
         "fix_commit_hash": "873e7b0e564b269ab3c6bead46bf72c4df16e7ec",
         "best_scenario_issue_date": "2026-01-09T11:02:34+00:00",
-        "bic_id": 19887
+        "bic_id": 19887,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -717,7 +770,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/5744ca0d8ad352b765109fd63060d23283a3ab28",
         "fix_commit_hash": "5744ca0d8ad352b765109fd63060d23283a3ab28",
         "best_scenario_issue_date": "2026-01-09T11:02:38+00:00",
-        "bic_id": 19888
+        "bic_id": 19888,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -732,7 +786,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/901c989ca91e8f52cdccfc01463f0e9cf07ad5f3",
         "fix_commit_hash": "901c989ca91e8f52cdccfc01463f0e9cf07ad5f3",
         "best_scenario_issue_date": "2026-01-09T11:22:05+00:00",
-        "bic_id": 19889
+        "bic_id": 19889,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -747,7 +802,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/fbaa740db19385dd2a45f3826c9975412734e3ec",
         "fix_commit_hash": "fbaa740db19385dd2a45f3826c9975412734e3ec",
         "best_scenario_issue_date": "2026-01-09T11:22:09+00:00",
-        "bic_id": 19890
+        "bic_id": 19890,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -762,7 +818,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/c98d39b7beebbaf0b4ec08d5d6ec72bbffb60528",
         "fix_commit_hash": "c98d39b7beebbaf0b4ec08d5d6ec72bbffb60528",
         "best_scenario_issue_date": "2026-01-09T11:22:14+00:00",
-        "bic_id": 19891
+        "bic_id": 19891,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -777,7 +834,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/0dc16e51598371267ae5c61cad4465415cb5862b",
         "fix_commit_hash": "0dc16e51598371267ae5c61cad4465415cb5862b",
         "best_scenario_issue_date": "2026-01-09T11:22:18+00:00",
-        "bic_id": 19892
+        "bic_id": 19892,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -792,7 +850,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/a2e6ce0324902be3bf528a734e52216f0d33b9cb",
         "fix_commit_hash": "a2e6ce0324902be3bf528a734e52216f0d33b9cb",
         "best_scenario_issue_date": "2026-01-09T11:22:22+00:00",
-        "bic_id": 19893
+        "bic_id": 19893,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -807,7 +866,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/184ce5d5f612178abad4ea1f6f6d191560652489",
         "fix_commit_hash": "184ce5d5f612178abad4ea1f6f6d191560652489",
         "best_scenario_issue_date": "2026-01-09T11:22:26+00:00",
-        "bic_id": 19894
+        "bic_id": 19894,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -822,7 +882,8 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/50e7c029864e278b67b063743845ec72d9ad45db",
         "fix_commit_hash": "50e7c029864e278b67b063743845ec72d9ad45db",
         "best_scenario_issue_date": "2026-01-13T07:29:30+00:00",
-        "bic_id": 19895
+        "bic_id": 19895,
+        "bic": []
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -837,7 +898,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/d9fa9353aa321c8b77bcdd6dcd350d1f13bc83d5",
         "fix_commit_hash": "d9fa9353aa321c8b77bcdd6dcd350d1f13bc83d5",
         "best_scenario_issue_date": "2026-01-13T16:34:39+00:00",
-        "bic_id": 19896
+        "bic_id": 19896,
+        "bic": [
+            "821af70559a5f97d7e5d60f6d8a646392086d30e"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -852,7 +916,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/bd4c43bf53e74970a6e73845e6fef8ee6b84f185",
         "fix_commit_hash": "bd4c43bf53e74970a6e73845e6fef8ee6b84f185",
         "best_scenario_issue_date": "2026-01-15T11:29:02+00:00",
-        "bic_id": 19897
+        "bic_id": 19897,
+        "bic": [
+            "aceaee89ee64d3fbcfb38c6224a33f62b2038733"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -867,7 +934,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/d60158ceb7cad822985c900d915c861b7570d2b9",
         "fix_commit_hash": "d60158ceb7cad822985c900d915c861b7570d2b9",
         "best_scenario_issue_date": "2026-01-14T10:12:39+00:00",
-        "bic_id": 19898
+        "bic_id": 19898,
+        "bic": [
+            "5464812f80081cf85a6734608f13406cbddcafcc"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -882,7 +952,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/e51fb2f8f04aa3642c051b779e64058dbd6f3f66",
         "fix_commit_hash": "e8cea82772037ea80b11e7e8de65d6b9ca1f168e",
         "best_scenario_issue_date": "2026-01-15T11:45:59+00:00",
-        "bic_id": 19899
+        "bic_id": 19899,
+        "bic": [
+            "d60158ceb7cad822985c900d915c861b7570d2b9"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -897,7 +970,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/7af147d09196554a3386a463abb18f0eb90c3398",
         "fix_commit_hash": "7af147d09196554a3386a463abb18f0eb90c3398",
         "best_scenario_issue_date": "2026-01-14T15:46:08+00:00",
-        "bic_id": 19900
+        "bic_id": 19900,
+        "bic": [
+            "419d78b359495f2e0b601c737447dabebed5ee06"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -912,7 +988,10 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/2dabe093633d7d95b419a638c9fb25c1e881774b",
         "fix_commit_hash": "2dabe093633d7d95b419a638c9fb25c1e881774b",
         "best_scenario_issue_date": "2026-01-13T10:45:18+00:00",
-        "bic_id": 19901
+        "bic_id": 19901,
+        "bic": [
+            "aa7864ea38ec759ab60c049150f22d7dc3648ac3"
+        ]
     },
     {
         "repo_name": "spring-projects/spring-boot",
@@ -927,6 +1006,7 @@
         "closer_url": "https://github.com/spring-projects/spring-boot/commit/73bf5f3d207b2063bd9f63196875187c2534f2b7",
         "fix_commit_hash": "73bf5f3d207b2063bd9f63196875187c2534f2b7",
         "best_scenario_issue_date": "2026-01-13T11:03:32+00:00",
-        "bic_id": 19902
+        "bic_id": 19902,
+        "bic": []
     }
 ]

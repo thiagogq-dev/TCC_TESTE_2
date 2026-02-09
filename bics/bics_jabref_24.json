@@ -12,7 +12,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7726",
         "fix_commit_hash": "a97b01f75a31edaba609fac5d856296fb4253600",
         "best_scenario_issue_date": "2021-05-18T06:06:32+09:30",
-        "bic_id": 921
+        "bic_id": 921,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -27,7 +28,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7474",
         "fix_commit_hash": "42270fadcf75507fdf0bda1a3cf1634e5602f563",
         "best_scenario_issue_date": "2021-03-14T23:27:52+01:00",
-        "bic_id": 922
+        "bic_id": 922,
+        "bic": [
+            "102ed25d664b2d80af1bb1cd9acfe2103e7f35c2"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -42,7 +46,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7455",
         "fix_commit_hash": "b856dd4b690501476a06e9b2a058b2f82f7051ef",
         "best_scenario_issue_date": "2021-03-02T21:21:58+01:00",
-        "bic_id": 923
+        "bic_id": 923,
+        "bic": [
+            "c1f2606b0d87a362f0ca3cfbb5f4f26317bd2318"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -57,7 +64,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7470",
         "fix_commit_hash": "c7f2671730f28fb75af823f574ba7d27106c1b06",
         "best_scenario_issue_date": "2021-02-27T07:48:27+01:00",
-        "bic_id": 924
+        "bic_id": 924,
+        "bic": [
+            "1bec5efd35491af6bc413eccf7593ba0ed4679f3"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -72,7 +82,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7523",
         "fix_commit_hash": "a0c7a86dc244842dbd9adf328260fd1c3dbb065d",
         "best_scenario_issue_date": "2021-03-13T21:46:55+05:30",
-        "bic_id": 925
+        "bic_id": 925,
+        "bic": [
+            "6034361e934813568321601e3d747786f18129fa"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -87,7 +100,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7520",
         "fix_commit_hash": "153d82d09da0c57af5ed88c23bc46363108d5867",
         "best_scenario_issue_date": "2021-03-13T09:55:04-06:00",
-        "bic_id": 926
+        "bic_id": 926,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -102,7 +116,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7519",
         "fix_commit_hash": "0dd4de75292cdd7a0bf2c50c84df9ad6aa04de10",
         "best_scenario_issue_date": "2021-03-12T12:51:24+01:00",
-        "bic_id": 927
+        "bic_id": 927,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -117,7 +132,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7518",
         "fix_commit_hash": "6837164b8a0caf6c6470bede2a8c83fb317fabbc",
         "best_scenario_issue_date": "2021-04-06T05:16:20+08:00",
-        "bic_id": 928
+        "bic_id": 928,
+        "bic": [
+            "0cf3c87dafa232d47727cf2d8c747034339277dd"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -132,7 +150,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/9302",
         "fix_commit_hash": "62dbf0d5ae1838c9c7aa73bfa7a0a1a9e6aa2d32",
         "best_scenario_issue_date": "2022-12-20T04:19:31+08:00",
-        "bic_id": 929
+        "bic_id": 929,
+        "bic": [
+            "de57f7f4147df077e6b2dd163eee45df919fe5f3"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -147,7 +168,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7573",
         "fix_commit_hash": "2948e6d78c7e1e7a16348e2fdb993a0b65a9dde0",
         "best_scenario_issue_date": "2021-03-29T20:50:51+02:00",
-        "bic_id": 930
+        "bic_id": 930,
+        "bic": [
+            "b2c40612a2c60685555f35af71f5801391a58b4b"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -162,7 +186,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7548",
         "fix_commit_hash": "303018f7944e288990d75e267f03ae9c3b0a1cdf",
         "best_scenario_issue_date": "2021-03-18T13:33:49+01:00",
-        "bic_id": 931
+        "bic_id": 931,
+        "bic": [
+            "d1fb9e2bad0bb7bb8a78b14ee2417e7a3e2bcc18"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -177,7 +204,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7851",
         "fix_commit_hash": "aa60dd67223cb3cfdf5ffe8446f8baf3f329c1c2",
         "best_scenario_issue_date": "2021-06-28T00:30:51+02:00",
-        "bic_id": 932
+        "bic_id": 932,
+        "bic": [
+            "91ecadf9a2435d3d12857dcbff26471baf6b42cf"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -192,7 +222,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7552",
         "fix_commit_hash": "d31ef4dc71eb1692af84a36b1e9e747c2384dc45",
         "best_scenario_issue_date": "2021-03-21T05:07:22+05:30",
-        "bic_id": 933
+        "bic_id": 933,
+        "bic": [
+            "e50566aa00e42cfc459d27eb3ac13934ce5535d8"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -207,7 +240,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7558",
         "fix_commit_hash": "6903e0ea104589086745a1568cd010f17cfddd93",
         "best_scenario_issue_date": "2021-04-12T21:14:08+03:00",
-        "bic_id": 934
+        "bic_id": 934,
+        "bic": [
+            "bdfc99af09c6d362d35e28a2c40ca1b0fff15dce"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -222,7 +258,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/10063",
         "fix_commit_hash": "a340e4c5d9d6e482ed90a98989a48a262fb7fc75",
         "best_scenario_issue_date": "2023-07-03T15:08:31-07:00",
-        "bic_id": 935
+        "bic_id": 935,
+        "bic": [
+            "0c0db9047644962b4faa23fb2b6406824a2db9c2"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -237,7 +276,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7600",
         "fix_commit_hash": "bb011c9313367a28990ae213b3920fe6cd10d1dc",
         "best_scenario_issue_date": "2021-03-31T05:22:58-04:00",
-        "bic_id": 936
+        "bic_id": 936,
+        "bic": [
+            "a278d96bb53f65ceef640991320c26e656ba26a0"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -252,7 +294,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7672",
         "fix_commit_hash": "d320975443b3fe87801415084b9cadd4833473c0",
         "best_scenario_issue_date": "2021-04-27T18:45:49+02:00",
-        "bic_id": 937
+        "bic_id": 937,
+        "bic": [
+            "47846bf3792679ad54eeab1afaf0b77983393a41"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -267,7 +312,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/10521",
         "fix_commit_hash": "31467beb777ce8cd7e5d9db7961f7a0a6b7878e1",
         "best_scenario_issue_date": "2023-12-23T22:32:17+08:00",
-        "bic_id": 938
+        "bic_id": 938,
+        "bic": [
+            "9b7fa3d4a2701aa3d2f84e4d3494f8357d68f597"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -282,7 +330,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/8474",
         "fix_commit_hash": "d710c9a1f767ec589bcb15664c7511afe49931e8",
         "best_scenario_issue_date": "2022-01-29T12:36:23+01:00",
-        "bic_id": 939
+        "bic_id": 939,
+        "bic": [
+            "1bec5efd35491af6bc413eccf7593ba0ed4679f3"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -297,7 +348,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7657",
         "fix_commit_hash": "2af578f6a9311dace0ec3270e678cc3ae31bad8e",
         "best_scenario_issue_date": "2021-04-22T12:33:50-07:00",
-        "bic_id": 940
+        "bic_id": 940,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -312,7 +364,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/9220",
         "fix_commit_hash": "7289576c93e4f6c0a28e2672147854e8e8040828",
         "best_scenario_issue_date": "2023-04-04T08:17:06+02:00",
-        "bic_id": 941
+        "bic_id": 941,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -327,7 +380,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7652",
         "fix_commit_hash": "23d757399e6a3fd94be6e2f66b504c9ea5c983f4",
         "best_scenario_issue_date": "2021-04-20T22:23:36+08:00",
-        "bic_id": 942
+        "bic_id": 942,
+        "bic": [
+            "b714206282e064ef4e839b35a8063c165aff9570"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -342,7 +398,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7911",
         "fix_commit_hash": "cb8fb55dcabf27319ae2c03d64ec108e85b78e39",
         "best_scenario_issue_date": "2021-07-15T08:38:31+02:00",
-        "bic_id": 943
+        "bic_id": 943,
+        "bic": [
+            "6d2ec481cdad6029b29a3b3d217f23ab47e92588"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -357,7 +416,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7664",
         "fix_commit_hash": "b5c6b7235acda55e628d18342568cfc031e6b2f2",
         "best_scenario_issue_date": "2021-04-27T02:39:09+08:00",
-        "bic_id": 944
+        "bic_id": 944,
+        "bic": [
+            "776895e8317332bb4e22f92f6a1d0e3c96ffdb1f"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -372,7 +434,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7663",
         "fix_commit_hash": "f81505086a2b3975f8523252f8bfc7b134fbdf38",
         "best_scenario_issue_date": "2021-04-24T04:09:03+08:00",
-        "bic_id": 945
+        "bic_id": 945,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -387,7 +450,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/8255",
         "fix_commit_hash": "d0d3d5ec51a4615799ec017d70de75b7dd52a886",
         "best_scenario_issue_date": "2021-11-20T12:34:34-08:00",
-        "bic_id": 946
+        "bic_id": 946,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -402,7 +466,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7717",
         "fix_commit_hash": "ab7459883c66358a5d288f606137725eeae3f31b",
         "best_scenario_issue_date": "2021-05-11T03:39:51+08:00",
-        "bic_id": 947
+        "bic_id": 947,
+        "bic": [
+            "7236581748d15f6189f5d44dda6eadd4f12f5124"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -417,7 +484,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7950",
         "fix_commit_hash": "f713d943732dd76939253542a29e6b50ba9782eb",
         "best_scenario_issue_date": "2021-08-02T20:13:40+02:00",
-        "bic_id": 948
+        "bic_id": 948,
+        "bic": [
+            "ef0a6bbba081a11baefc376203c866361e8e6af8"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -432,7 +502,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7775",
         "fix_commit_hash": "fa8cc829727ffddd97a9056fd466e7098577f4d7",
         "best_scenario_issue_date": "2021-06-04T00:39:20+02:00",
-        "bic_id": 949
+        "bic_id": 949,
+        "bic": [
+            "8a451eaf5b47c2312664b24823cd430b0828e81d"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -447,7 +520,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7804",
         "fix_commit_hash": "d80e16457711ec606879f061b64925d51826082a",
         "best_scenario_issue_date": "2021-06-15T13:44:41+02:00",
-        "bic_id": 950
+        "bic_id": 950,
+        "bic": [
+            "7271f6b3678b8367964a384a2fa9c7b6aea9dfa9"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -462,7 +538,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/9404",
         "fix_commit_hash": "e8c3a429dd2148730ff549c2a7669dfdb8c7650f",
         "best_scenario_issue_date": "2022-12-19T00:52:29+01:00",
-        "bic_id": 951
+        "bic_id": 951,
+        "bic": [
+            "8bd859de823b0ff372c940299f86c428166ebdb7"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -477,7 +556,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/12408",
         "fix_commit_hash": "5046e0600a29dcece2366bc59a1b12b6722cad97",
         "best_scenario_issue_date": "2025-01-25T14:44:00+02:00",
-        "bic_id": 952
+        "bic_id": 952,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -492,7 +572,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7807",
         "fix_commit_hash": "38d7a30c4fe1a1a147eb60c378008c63127de14e",
         "best_scenario_issue_date": "2021-06-17T14:58:25-07:00",
-        "bic_id": 953
+        "bic_id": 953,
+        "bic": [
+            "f9799d44dbec3aae6acee8b929ed7d69edbccba9"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -507,7 +590,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7894",
         "fix_commit_hash": "c99d61c2c7a51d11702892039589a4c84920d628",
         "best_scenario_issue_date": "2021-07-16T10:30:47-05:00",
-        "bic_id": 954
+        "bic_id": 954,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -522,7 +606,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7831",
         "fix_commit_hash": "53eb4634e7edff602f1b36be1dfc964f5666ec30",
         "best_scenario_issue_date": "2021-06-20T12:50:50+02:00",
-        "bic_id": 955
+        "bic_id": 955,
+        "bic": [
+            "b991648cde18f447099eaee3f605e1b709151dd5"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -537,7 +624,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7994",
         "fix_commit_hash": "54717811520e3b725a484208fcc003abf73e9480",
         "best_scenario_issue_date": "2021-08-16T21:00:55+02:00",
-        "bic_id": 956
+        "bic_id": 956,
+        "bic": [
+            "d31ef4dc71eb1692af84a36b1e9e747c2384dc45"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -552,7 +642,10 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7857",
         "fix_commit_hash": "9fe76174fcb41ab62dab984ff42e1790d11f44c9",
         "best_scenario_issue_date": "2021-06-28T17:42:05+02:00",
-        "bic_id": 957
+        "bic_id": 957,
+        "bic": [
+            "d8d3807a6c35557843717a6fc197b6eec991527e"
+        ]
     },
     {
         "repo_name": "JabRef/jabref",
@@ -567,7 +660,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/8216",
         "fix_commit_hash": "d2122a419171a6c7274ceb35ec0b5867ac6a8c82",
         "best_scenario_issue_date": "2021-11-07T21:03:11+01:00",
-        "bic_id": 958
+        "bic_id": 958,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -582,7 +676,8 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/8247",
         "fix_commit_hash": "1eed985b74dec0b0e56eec7ba58607c195ec5871",
         "best_scenario_issue_date": "2021-12-14T12:13:49-08:00",
-        "bic_id": 959
+        "bic_id": 959,
+        "bic": []
     },
     {
         "repo_name": "JabRef/jabref",
@@ -597,6 +692,7 @@
         "closer_url": "https://github.com/JabRef/jabref/pull/7948",
         "fix_commit_hash": "720fd8e7bc77f7dac528a8af31e7e31bb4e09f53",
         "best_scenario_issue_date": "2021-07-31T17:54:27+02:00",
-        "bic_id": 960
+        "bic_id": 960,
+        "bic": []
     }
 ]

@@ -12,7 +12,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3022",
         "fix_commit_hash": "c2c90ae079903479a9c64a9e0cee4361b532abb3",
         "best_scenario_issue_date": "2018-09-25T13:18:20-04:00",
-        "bic_id": 321
+        "bic_id": 321,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -27,7 +28,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3073",
         "fix_commit_hash": "72244983ab97098a467e654d8a2fb1e637f0bf55",
         "best_scenario_issue_date": "2018-09-28T17:32:24-04:00",
-        "bic_id": 322
+        "bic_id": 322,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -42,7 +46,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3044",
         "fix_commit_hash": "1ac4da4e880161222e2dccb0a9ae037193da3025",
         "best_scenario_issue_date": "2018-09-26T14:15:57-04:00",
-        "bic_id": 323
+        "bic_id": 323,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -57,7 +64,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3403",
         "fix_commit_hash": "6b1a819b362ed8e7cd10bfeae917aed5909999b6",
         "best_scenario_issue_date": "2018-10-22T10:45:55-04:00",
-        "bic_id": 324
+        "bic_id": 324,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -72,7 +82,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3068",
         "fix_commit_hash": "b1c1aa30bbc683f53c9a05c68dd1f2a6d82fc382",
         "best_scenario_issue_date": "2018-09-27T16:47:38-04:00",
-        "bic_id": 325
+        "bic_id": 325,
+        "bic": [
+            "3a49517abe5d3b7bc27f70765c06f798e1ba2b37"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -87,7 +100,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3974",
         "fix_commit_hash": "3ab55fc04ff9d34857c55fdb78dcce01c57f9faa",
         "best_scenario_issue_date": "2018-12-07T14:46:01-05:00",
-        "bic_id": 326
+        "bic_id": 326,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -102,7 +118,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3060",
         "fix_commit_hash": "f162480347069a6f830301df7534d2ac836e989b",
         "best_scenario_issue_date": "2018-09-27T15:07:17-04:00",
-        "bic_id": 327
+        "bic_id": 327,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -117,7 +136,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3198",
         "fix_commit_hash": "44faec992d18d110d06a20c0a34ce24516939921",
         "best_scenario_issue_date": "2018-10-09T16:21:53-04:00",
-        "bic_id": 328
+        "bic_id": 328,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -132,7 +152,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3089",
         "fix_commit_hash": "fc5ed8b4298fd039c17ae6502956f81684815c78",
         "best_scenario_issue_date": "2018-10-01T17:03:39-04:00",
-        "bic_id": 329
+        "bic_id": 329,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -147,7 +168,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3250",
         "fix_commit_hash": "3e8be6021b4458132544029899c125c7dad472f9",
         "best_scenario_issue_date": "2018-10-12T11:43:27-04:00",
-        "bic_id": 330
+        "bic_id": 330,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -162,7 +184,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3229",
         "fix_commit_hash": "2ea3eed2f31ec2ebf2701cbf93dd56f3cbfdb5ac",
         "best_scenario_issue_date": "2018-10-05T11:31:00-04:00",
-        "bic_id": 331
+        "bic_id": 331,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -177,7 +202,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4627",
         "fix_commit_hash": "49944575e4250d7556e6d68019abb833c1c4f740",
         "best_scenario_issue_date": "2019-01-22T17:29:21-05:00",
-        "bic_id": 332
+        "bic_id": 332,
+        "bic": [
+            "90f81aef94942ea21f91af37587b00f0288ec989"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -192,7 +220,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3619",
         "fix_commit_hash": "6724f163e3098606a44d5c9b9a13ca5e311ba1d9",
         "best_scenario_issue_date": "2018-11-09T08:54:37-05:00",
-        "bic_id": 333
+        "bic_id": 333,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -207,7 +238,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4458",
         "fix_commit_hash": "8590ac95a9d5df674603c18c5e2f6e7d212bf653",
         "best_scenario_issue_date": "2019-01-25T10:50:45-05:00",
-        "bic_id": 334
+        "bic_id": 334,
+        "bic": [
+            "43a35e1216a1b4ef47303bc0ff14de126bf11957"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -222,7 +256,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3025",
         "fix_commit_hash": "c491d4b0e4ab85384afeb0c773274ad02ceb4bc4",
         "best_scenario_issue_date": "2018-09-25T14:28:56-04:00",
-        "bic_id": 335
+        "bic_id": 335,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -237,7 +272,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3996",
         "fix_commit_hash": "45c23333069b0f98b31f304ad837ed71b4eeef59",
         "best_scenario_issue_date": "2019-01-08T17:44:34-05:00",
-        "bic_id": 336
+        "bic_id": 336,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -252,7 +290,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3528",
         "fix_commit_hash": "c6b75f52d43a05eec53bfaf390cfec1d5ddb7d66",
         "best_scenario_issue_date": "2018-11-02T16:03:49-04:00",
-        "bic_id": 337
+        "bic_id": 337,
+        "bic": [
+            "6ef77dfc5b62d1452e2042e59786b9717fe2e6b5"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -267,7 +308,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4192",
         "fix_commit_hash": "2b9c1a59ef2d5cb865911ba7684e50a35fc48e72",
         "best_scenario_issue_date": "2019-01-07T16:25:38-05:00",
-        "bic_id": 338
+        "bic_id": 338,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -282,7 +324,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3435",
         "fix_commit_hash": "a17e9f64ed57a759cf38e9cb6ef1bda29e325ee2",
         "best_scenario_issue_date": "2018-10-24T13:58:02-04:00",
-        "bic_id": 339
+        "bic_id": 339,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -297,7 +342,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3237",
         "fix_commit_hash": "906c9ad9a35d1df09ba42e6805f7125e458441e2",
         "best_scenario_issue_date": "2018-10-11T11:23:06-04:00",
-        "bic_id": 340
+        "bic_id": 340,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -312,7 +358,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3228",
         "fix_commit_hash": "b8e7a55b5ed1965480963a9e583cbac2c000d117",
         "best_scenario_issue_date": "2018-10-11T09:11:38+05:30",
-        "bic_id": 341
+        "bic_id": 341,
+        "bic": [
+            "91b6d017dc87da812193c8c6fffedff5ffa692b5"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -327,7 +376,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4303",
         "fix_commit_hash": "c931040dbe87ce57b054785d1611db615996180e",
         "best_scenario_issue_date": "2019-01-15T11:43:25-05:00",
-        "bic_id": 342
+        "bic_id": 342,
+        "bic": [
+            "0bcef74e839f7f938ca004aa1944b56e6e43a4c6"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -342,7 +394,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/5583",
         "fix_commit_hash": "f56a0b1a40ec74f63767654359b3dbe4da0b4589",
         "best_scenario_issue_date": "2019-04-23T13:24:41-04:00",
-        "bic_id": 343
+        "bic_id": 343,
+        "bic": [
+            "908947ea3c0cf95b45427383c1c441883834b834"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -357,7 +412,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3257",
         "fix_commit_hash": "3bf7e341cb96af513994b7eb3f216f23152a684b",
         "best_scenario_issue_date": "2018-10-12T14:39:29-04:00",
-        "bic_id": 344
+        "bic_id": 344,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -372,7 +428,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3295",
         "fix_commit_hash": "ac5dd335de27af504ba602c14feb289fd55f1ca7",
         "best_scenario_issue_date": "2018-10-15T10:46:42-04:00",
-        "bic_id": 345
+        "bic_id": 345,
+        "bic": [
+            "ca12bd11189c73532134fccf0c343a61bdfaf495"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -387,7 +446,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3298",
         "fix_commit_hash": "4c39ab775161c3b6c20d627cc3f6ac62a9b94af9",
         "best_scenario_issue_date": "2018-10-16T09:39:23-04:00",
-        "bic_id": 346
+        "bic_id": 346,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -402,7 +464,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4171",
         "fix_commit_hash": "c729c1180579f9131bbad3dba35162d2a8a457f8",
         "best_scenario_issue_date": "2019-01-02T16:39:20-05:00",
-        "bic_id": 347
+        "bic_id": 347,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -417,7 +480,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3423",
         "fix_commit_hash": "d189cfb74fc97c258051e1c1c34bce2e48579fab",
         "best_scenario_issue_date": "2018-10-22T16:49:49-04:00",
-        "bic_id": 348
+        "bic_id": 348,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -432,7 +498,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4223",
         "fix_commit_hash": "f37e4ba589a9cff1790356b8a9d05beb20e6969f",
         "best_scenario_issue_date": "2019-01-09T15:24:15-05:00",
-        "bic_id": 349
+        "bic_id": 349,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -447,7 +516,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3592",
         "fix_commit_hash": "e628544966f5a1c7542cc5fdbff88d457bb13e86",
         "best_scenario_issue_date": "2019-01-14T09:02:08-05:00",
-        "bic_id": 350
+        "bic_id": 350,
+        "bic": [
+            "9a05abd6a9ca3c95e28f8e07bb2ba59c22124964"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -462,7 +534,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3331",
         "fix_commit_hash": "d6c539185d025b8384e67883e90bca90ed6bd0e0",
         "best_scenario_issue_date": "2018-10-17T15:38:30-04:00",
-        "bic_id": 351
+        "bic_id": 351,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -477,7 +550,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3361",
         "fix_commit_hash": "6db338a61278edbc725df88556415f3237094003",
         "best_scenario_issue_date": "2018-10-18T17:26:52-04:00",
-        "bic_id": 352
+        "bic_id": 352,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -492,7 +566,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/4079",
         "fix_commit_hash": "3c92f4665f128af423b8fb37694861573c3aad24",
         "best_scenario_issue_date": "2018-12-17T15:28:18-05:00",
-        "bic_id": 353
+        "bic_id": 353,
+        "bic": [
+            "b001093abe07efab119ff633449c40cdde00eb78"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -507,7 +584,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3818",
         "fix_commit_hash": "915488b2344423551a960de49c793c8cfd61de09",
         "best_scenario_issue_date": "2018-12-06T16:05:07-05:00",
-        "bic_id": 354
+        "bic_id": 354,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -522,7 +600,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3381",
         "fix_commit_hash": "8bcc3246bf57f32b190812a0b543a0ab6861cd29",
         "best_scenario_issue_date": "2018-10-24T11:46:04-04:00",
-        "bic_id": 355
+        "bic_id": 355,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -537,7 +616,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/5127",
         "fix_commit_hash": "a5611a5b42b2e041e01182fd463f319a990f1b55",
         "best_scenario_issue_date": "2019-02-21T13:57:47-05:00",
-        "bic_id": 356
+        "bic_id": 356,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -552,7 +632,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3443",
         "fix_commit_hash": "fb11d4eae12fcc73af6b848feb554ce1af0471ef",
         "best_scenario_issue_date": "2018-10-25T08:41:48-04:00",
-        "bic_id": 357
+        "bic_id": 357,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -567,7 +648,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3687",
         "fix_commit_hash": "36243775a3ff3313262924fc2aed6f3d8785daee",
         "best_scenario_issue_date": "2018-11-14T18:58:41-05:00",
-        "bic_id": 358
+        "bic_id": 358,
+        "bic": [
+            "a2b64e0b19a500fb21851ed97634b74551cd14d6"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -582,7 +666,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3598",
         "fix_commit_hash": "8f25a68b751f139c8422c2b59d955d2c95e56f82",
         "best_scenario_issue_date": "2018-11-07T15:52:21-05:00",
-        "bic_id": 359
+        "bic_id": 359,
+        "bic": [
+            "bb4efccb992d1c5e3502aea86859c96ec827cd66"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -597,6 +684,9 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/3598",
         "fix_commit_hash": "8f25a68b751f139c8422c2b59d955d2c95e56f82",
         "best_scenario_issue_date": "2018-11-07T15:52:21-05:00",
-        "bic_id": 360
+        "bic_id": 360,
+        "bic": [
+            "bb4efccb992d1c5e3502aea86859c96ec827cd66"
+        ]
     }
 ]

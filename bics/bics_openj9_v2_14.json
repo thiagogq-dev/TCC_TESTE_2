@@ -12,7 +12,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16642",
         "fix_commit_hash": "a59118867260a80c8ac45d3d7b3587a8d9ab7f39",
         "best_scenario_issue_date": "2023-02-01T18:09:28+08:00",
-        "bic_id": 1571
+        "bic_id": 1571,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -27,7 +28,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16676",
         "fix_commit_hash": "700dcf7f1d9adb700e6a6abdf9ad8a081dfd94f3",
         "best_scenario_issue_date": "2023-02-03T15:29:01-05:00",
-        "bic_id": 1572
+        "bic_id": 1572,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -42,7 +46,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16678",
         "fix_commit_hash": "297738fc0b322c2f98394cabc860e7bf5765f8d9",
         "best_scenario_issue_date": "2023-02-09T10:03:28-05:00",
-        "bic_id": 1573
+        "bic_id": 1573,
+        "bic": [
+            "8d18bdd5b461334c369c858c36d8dc7c2956314e"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -57,7 +64,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16760",
         "fix_commit_hash": "06b92c1c22d677776721308ed55084e0b40982ad",
         "best_scenario_issue_date": "2023-02-22T12:43:24-05:00",
-        "bic_id": 1574
+        "bic_id": 1574,
+        "bic": [
+            "294cdbdfa8f97c8cf6224aeda361c31426fab5b7"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -72,7 +82,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16881",
         "fix_commit_hash": "7cf506db3b37e1ccbf20925555b6b21e20fcc771",
         "best_scenario_issue_date": "2023-03-10T16:14:55-05:00",
-        "bic_id": 1575
+        "bic_id": 1575,
+        "bic": [
+            "2641a4646cb71a622026aa9c87e025f7b7615a26"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -87,7 +100,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16680",
         "fix_commit_hash": "976f8f13f455743a13c9f529ae781d2d61ecb36c",
         "best_scenario_issue_date": "2023-02-07T13:41:31-05:00",
-        "bic_id": 1576
+        "bic_id": 1576,
+        "bic": [
+            "dc9f1719ba4bf9652b401659a233ac1e4a36f642"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -102,7 +118,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/18255",
         "fix_commit_hash": "e57519e62b0c2088eee97316a9dbb93903f77a2d",
         "best_scenario_issue_date": "2023-04-25T14:36:06-04:00",
-        "bic_id": 1577
+        "bic_id": 1577,
+        "bic": [
+            "297738fc0b322c2f98394cabc860e7bf5765f8d9"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -117,7 +136,8 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16698",
         "fix_commit_hash": "de5a091a839d6e722467e39f3d4676300dc870e8",
         "best_scenario_issue_date": "2023-02-09T19:41:33-05:00",
-        "bic_id": 1578
+        "bic_id": 1578,
+        "bic": []
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -132,7 +152,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/16709",
         "fix_commit_hash": "e0f3831b8f63ef30118c0a31d4438815d4ef67ca",
         "best_scenario_issue_date": "2023-02-13T14:22:36+09:00",
-        "bic_id": 1579
+        "bic_id": 1579,
+        "bic": [
+            "d68620e5e89f138df56363faf9ebb159b25d2c1f"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -147,6 +170,9 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/17194",
         "fix_commit_hash": "55d0ab51ebb2115c44888c3aacc0988889368cab",
         "best_scenario_issue_date": "2023-04-14T11:12:16-04:00",
-        "bic_id": 1580
+        "bic_id": 1580,
+        "bic": [
+            "0a728ed06aef74d32d803426977023fdaf87a9be"
+        ]
     }
 ]

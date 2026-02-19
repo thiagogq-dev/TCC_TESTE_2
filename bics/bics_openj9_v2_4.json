@@ -12,7 +12,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/9734",
         "fix_commit_hash": "363a8870fc0481e72d0efc1e6e3a82095c89d7fe",
         "best_scenario_issue_date": "2020-06-05T11:04:34-04:00",
-        "bic_id": 631
+        "bic_id": 631,
+        "bic": [
+            "1ce0acfacbae8f33b83c5f994c940e969c38938d"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -27,7 +30,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/10127",
         "fix_commit_hash": "31dcadd0fb5c2941e6cb92b84abf543686781a14",
         "best_scenario_issue_date": "2020-07-09T14:22:12+09:00",
-        "bic_id": 632
+        "bic_id": 632,
+        "bic": [
+            "462ec972e045265af35682d6565a5e58ca41bf65"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -42,7 +48,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/8835",
         "fix_commit_hash": "9c6239caa918dd64fd03aa41b51a2d378ca8ee87",
         "best_scenario_issue_date": "2020-03-11T16:33:56-04:00",
-        "bic_id": 633
+        "bic_id": 633,
+        "bic": [
+            "14c5b2c0eb68164889df91462e9d69d432c97156"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -57,7 +66,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/6900",
         "fix_commit_hash": "0eb2a6a155e52af150748882aecc50964187cc99",
         "best_scenario_issue_date": "2019-08-27T12:23:23-04:00",
-        "bic_id": 634
+        "bic_id": 634,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -72,7 +84,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/6869",
         "fix_commit_hash": "17f49097b21000802a39afa88b8278b4704f9c47",
         "best_scenario_issue_date": "2019-08-27T18:17:45-04:00",
-        "bic_id": 635
+        "bic_id": 635,
+        "bic": [
+            "5844a1d4f03a17dc3a16071f5798799e98099bd6"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -87,7 +102,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/13031",
         "fix_commit_hash": "0c0a503a1458af9845f1b344369ab83c69144f42",
         "best_scenario_issue_date": "2021-06-18T17:12:22+09:00",
-        "bic_id": 636
+        "bic_id": 636,
+        "bic": [
+            "6e2ae79f0a091796e07801b8d97f1176940221bb"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -102,7 +120,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/6952",
         "fix_commit_hash": "2a37b7b0cd004382f0dbe94fa3208c4545a1bae6",
         "best_scenario_issue_date": "2019-09-03T10:46:00-04:00",
-        "bic_id": 637
+        "bic_id": 637,
+        "bic": [
+            "71890708e0e690ea000ded409ac1cfc7f9295f01"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -117,7 +138,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/6956",
         "fix_commit_hash": "b3720edb00a011fa4d64d1c82b875dc55e36ff3e",
         "best_scenario_issue_date": "2019-09-06T09:59:56-04:00",
-        "bic_id": 638
+        "bic_id": 638,
+        "bic": [
+            "017088ae709605dc8593a801a62e263b73eed254"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -132,7 +156,10 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/6993",
         "fix_commit_hash": "a59ba251067e34325c39015f142c84faa55d5747",
         "best_scenario_issue_date": "2019-09-05T10:38:15-04:00",
-        "bic_id": 639
+        "bic_id": 639,
+        "bic": [
+            "ab72e7a190078aea385f0cc0e337aa373f4b3ccc"
+        ]
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -147,6 +174,9 @@
         "closer_url": "https://github.com/eclipse-openj9/openj9/pull/6965",
         "fix_commit_hash": "b5dc20096397e32c9534892d510bee8f185a913d",
         "best_scenario_issue_date": "2019-09-04T14:17:46-04:00",
-        "bic_id": 640
+        "bic_id": 640,
+        "bic": [
+            "3ddd56b705757e978be121a87c932e3d37c95206"
+        ]
     }
 ]
